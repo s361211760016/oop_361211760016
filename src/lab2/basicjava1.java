@@ -41,6 +41,7 @@ public class basicjava1 {
 
         System.out.println(t.toUpperCase());
         System.out.println("RUTS");
+        System.out.println("air");
 
 
 
