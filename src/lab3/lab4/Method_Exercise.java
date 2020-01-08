@@ -16,6 +16,7 @@ public class Method_Exercise {
 
         //display
         System.out.println("The summation of "+x+" and "+y+" : "+sum(x,y));
+
         System.out.println("The summation of "+x+" and "+y+" : "+sub(x,y));
         System.out.println("The summation of "+x+" and "+y+" : "+mul(x,y));
         System.out.println("The summation of "+x+" and "+y+" : "+div(x,y));
