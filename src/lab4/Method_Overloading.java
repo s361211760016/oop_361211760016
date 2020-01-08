@@ -1,6 +1,4 @@
-package lab3.lab4;
-
-import java.util.Scanner;
+package lab4;
 
 public class Method_Overloading {
     // Methop Overloading คือ เมธอดที่มีชื่อเหมือนกัน

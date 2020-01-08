@@ -1,4 +1,4 @@
-package lab3.lab4;
+package lab4;
 
 public class MethodEx {
     //1. No return No parameter : คือ เมธอดที่ไม่มีการรับค่าพารามิเตอร์
